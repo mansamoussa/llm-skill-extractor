@@ -4,8 +4,6 @@
 - Mikaël Bonvin  
 - Mouhamadou Thiam
 
-**Institution:** HSLU – Applied Information and Data Science Master’s Program  
-
 ---
 
 ## Project Overview
