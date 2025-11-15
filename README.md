@@ -19,20 +19,24 @@ Optional extension: a **multi-agent orchestration system** coordinating multiple
 ---
 
 ## Repository Structure
-
-├── data
-│   └── annotated.json
-├── notebooks
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_train_bert.ipynb
-│   ├── 03_evaluation.ipynb
-│   ├── 04_skill_extraction_llm.ipynb
-│   └── 05_agent_orchestration_optional.ipynb
-├── README.md
-├── requirements.txt
-└── src
-    ├── preprocessing.py
-    └── training_template.py
+```
+├── data  
+│   └── annotated.json (untracked in Git - available in Google Drive) 
+│
+├── notebooks  
+│   ├── 01_data_preparation.ipynb  
+│   ├── 02_train_bert.ipynb  
+│   ├── 03_evaluation.ipynb  
+│   ├── 04_skill_extraction_llm.ipynb  
+│   └── 05_agent_orchestration_optional.ipynb
+│
+├── src  
+│   ├── preprocessing.py  
+│   └── training_template.py  
+│
+├── README.md  
+└── requirements.txt  
+```
 
 Each notebook is runnable in **Google Colab** — simply click "Open in Colab" badge:
 
