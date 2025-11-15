@@ -1,4 +1,4 @@
-# 🧠 Multi-Stage Job Advertisement Analysis using BERT and LLMs
+# Multi-Stage Job Advertisement Analysis using BERT and LLMs
 
 **Team:**  
 - Mikaël Bonvin  
@@ -34,9 +34,7 @@ Optional extension: a **multi-agent orchestration system** coordinating multiple
     ├── preprocessing.py
     └── training_template.py
 
-Each notebook is runnable in **Google Colab** — simply click the badge below:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mansamoussa/llm-skill-extractor/)
+Each notebook is runnable in **Google Colab** — simply click "Open in Colab" badge:
 
 ---
 
