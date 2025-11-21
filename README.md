@@ -1,7 +1,8 @@
 # Multi-Stage Job Advertisement Analysis using BERT and LLMs
 
 **Team:**  
-- Mikaël Bonvin  
+- Mikaël Bonvin
+- Govender Vimerlin  
 - Mouhamadou Thiam
 
 ---
@@ -11,8 +12,7 @@
 This project develops a **two-stage NLP pipeline**:
 1. **Zone Identification:** Fine-tune a multilingual BERT model to classify text sections in job advertisements.
 2. **Skill Extraction:** Use Google Gemini to extract professional skills from the “Skills and Content” zone.
-
-Optional extension: a **multi-agent orchestration system** coordinating multiple LLMs for improved skill extraction robustness.
+3. **Multi-agent orchestration system:** Coordinate multiple LLMs for improved skill extraction robustness.
 
 ---
 
