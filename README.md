@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This project develops a **two-stage NLP pipeline**:
+This project develops a two-stage NLP pipeline with an extended mutli agent orchestrator: 
 1. **Zone Identification:** Fine-tune a multilingual BERT model to classify text sections in job advertisements.
 2. **Skill Extraction:** Use Google Gemini to extract professional skills from the “Skills and Content” zone.
 3. **Multi-agent orchestration system:** Coordinate multiple LLMs for improved skill extraction robustness.
